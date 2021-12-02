@@ -31,7 +31,7 @@ Our applications provide multiple endpoints so that other clients can easily com
 | surrenderFromGame | PUT | Surrender from a specific game | id_game, username |
 | updatePlayerRanking | PUT | Update raking of a specific player which is involved in a game | id_game, username | 
 | finishGame | PUT | Finish a specific game | id_game |
-| getGamesInfos | GET | List existing games and optionnaly filtring them by by name, player(s) or date created. | (Optional) name, player, createdAt |
+| getGamesInfos | GET | List existing games and optionnaly filter results by name, player's username or date created. | (Optional) name, player, createdAt |
 
 
 
