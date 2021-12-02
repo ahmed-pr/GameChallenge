@@ -13,7 +13,6 @@ The main objective of this project was to create a simple API to manage games (C
 * Hibernate JPA.
 * REST API (JSON).
 * MySQL DBMS.
-* cURL.
 * Docker.
 
 
