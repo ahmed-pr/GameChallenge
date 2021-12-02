@@ -34,7 +34,7 @@ Our applications provide multiple endpoints so that other clients can easily com
 
 
 
-## Running source code in an IDE
+## Running source code from an IDE
 In order to run the source code you only have to copy the content of this repository to your favorite Spring IDE (Eclipse, IntelliJ IDEA...). After that, you will have to specify your own database properties in application.properties file so that you can successfuly run the application. You can test your API using cURL or POSTMAN...
 
 
