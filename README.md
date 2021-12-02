@@ -43,7 +43,7 @@ In order to run the source code you only have to copy the content of this reposi
 ## Running application in Docker
 You need to have Docker and Docker Compose installation in your computer (if your are using Docker Desktop, Docker Compose is already included in this Docker version).
 To run this application using Docker, please follow this steps :
-* First you have to generate the application .jar file by running the following command in your IDE or in command line :  mvn clean package. (The .jar file will be in target directory of your project).
+* First you have to generate the application .jar file by running the following command in your IDE or in command line :  mvn clean package. (.jar file will be in target directory of your project).
 * Move this two files : Dockerfile and docker-compose.yml to target directory.
 * Open a command line interface and access to the target directory.
 * After that run the following command to launch our containers : docker-compose up -d
