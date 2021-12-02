@@ -34,8 +34,10 @@ Our applications provide multiple endpoints so that other clients can easily com
 | getGamesInfos | GET | Listing existing games and optionnaly filtring them by by name, player(s) or date created. | (Optional) name, player, createdAt |
 
 
-## Running source code in your IDE
+
+## Running source code in an IDE
 In order to run the source code you only have to copy the content of this repository to your favorite Spring IDE (Eclipse, IntelliJ IDEA...). After that, you will have to specify your own database properties in application.properties file so that you can successfuly run the application. You can test your API using cURL or POSTMAN...
+
 
 
 ## Running application in Docker
