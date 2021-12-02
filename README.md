@@ -53,8 +53,8 @@ To run this application using Docker, please follow this steps :
 * * use mysql;
 * * CREATE USER 'root'@'%' IDENTIFIED BY 'dockpass';
 * * GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;
-* * exit (to exit mysql command line interface)
-* * exit (to exit linux command line shell)
+* * exit (to exit MySQL command line interface)
+* * exit (to exit Linux command line shell)
 
 * After getting back to our OS machine CLI we will have to restart Spring container by using his name so that we can finally run our application : restart target_spring_1
 
